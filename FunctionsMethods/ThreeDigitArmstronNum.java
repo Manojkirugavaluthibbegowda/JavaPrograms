@@ -18,4 +18,5 @@ public class ThreeDigitArmstronNum {
         }
         return num == sum;
     }
+
 }
